@@ -7,7 +7,30 @@
     tools:context=".MainActivity">
 
     <org.opencv.android.JavaCameraView
+        android:id="@+id/main_surface"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:id="@+id/main_surface" />
+        android:layout_height="fill_parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <SeekBar
+            android:id="@+id/seekBar1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="39dp" />
+
+        <Button
+            android:id="@+id/pickColour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PICK COLOUR"/>
+
+    </LinearLayout>
+
 </RelativeLayout>

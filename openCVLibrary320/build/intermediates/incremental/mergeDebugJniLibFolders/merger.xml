@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\DELL5547\Desktop\P1Coating\openCVLibrary320\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\DELL5547\Desktop\P1Coating\openCVLibrary320\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\mwasi\Desktop\FaceDetectionOpencv\openCVLibrary320\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\mwasi\Desktop\FaceDetectionOpencv\openCVLibrary320\src\debug\jniLibs"/></dataSet></merger>

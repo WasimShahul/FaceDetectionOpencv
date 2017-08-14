@@ -51,6 +51,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
+    compile 'com.pes.materialcolorpicker:library:1.2.0'
     testCompile 'junit:junit:4.12'
     compile project(':openCVLibrary320')
 }
